@@ -40,7 +40,7 @@ def loading_models(source=0):
     faceNet = cv2.dnn.readNet("./models/face_detector/deploy.prototxt",
                               "./models/face_detector/res10_300x300_ssd_iter_140000.caffemodel")
 
-    maskNet = load_model("./models/mask_detector/ask_detector.model")
+    maskNet = load_model("./models/mask_detector/mask_detector.model")
     return cv2.VideoCapture(source), faceNet, maskNet
 
 
