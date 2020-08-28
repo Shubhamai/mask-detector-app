@@ -17,7 +17,7 @@ import os
 
 
 # Connecting to the database
-conn = sqlite3.connect('data.db')
+conn = sqlite3.connect('data3.db')
 
 
 def loading_models(source=0):
@@ -147,7 +147,7 @@ def login_user(username, password):
 def mask_detector(frame, detections, maskNet):
     """
     Function take the frame, face detections and maskNet and return the faces, locations and prediction  of mask   
-    **The function/pipeline was highly inspired/taken from codeblogger in this kaggle notebook https://www.kaggle.com/codeblogger/mask-detection-for-the-video/code **
+    **The function was highly taken from chandrikadeb7 from a very similar project https://github.com/chandrikadeb7/Face-Mask-Detection **
 
 
     Parameters
@@ -306,7 +306,8 @@ def main():
                             # Inputting the frame to the faceNet Model
                             faceNet.setInput(blob)
                             detections = faceNet.forward()
-
+                            
+                         
                             # Input the frame, face detections and maskNet
                             faces, locs, preds = mask_detector(
                                 frame, detections, maskNet)
