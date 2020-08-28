@@ -37,12 +37,18 @@ The code has only been tested on Python 3.7.7 so it's recommended
 
 # Usage
 
-You will need to first signup to the application, use whatever email or password and then hit signup. Another main thing -
-**The passwords are firstly being hashed and then stored, password are not being stored in raw format.**
+You will need to first signup to the application, use whatever email or password and then hit signup. 
+![](./images/signup.png)
+
+Another main thing is that **The passwords are firstly being hashed and then stored, password are not being stored in raw format.**
 
 And then just login to the application, enter your camera link, ( if you are using a webcam or something, just enter 0)
 
-And there you go!
+![](./images/login.png)
+
+And there you goo 🎉
+
+With clicking on the Violations, you will see all the pictures of people with no mask with respective date & time
 
 # License
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
