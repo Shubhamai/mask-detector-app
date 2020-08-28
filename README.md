@@ -14,9 +14,9 @@ So, here are all the feature in this application -
 - You can see all people with no mask with recpective time & dates.
 
 # Built With
-- Streamlit --- The completele fronted is based on React Web Application, and streamlit allows to make React Web Application completely in Python 🎉.  
-- Sqlite3 --- For saving the user data in a database ( username & password )
-- Tensorflow & OpenCV --- To detct faces % mask in **real-time**
+- [Streamlit](https://www.streamlit.io/) --- The completele fronted is based on React Web Application, and streamlit allows to make React Web Application completely in Python 🎉.  
+- [Sqlite3](https://www.sqlite.org/index.html) --- For saving the user data in a database ( username & password )
+- [Tensorflow](https://www.tensorflow.org/) & [OpenCV](https://opencv.org/) --- To detct faces % mask in **real-time**
 And bunch of other small libraries including os, time, numpy. 
 
 # Getting Started
