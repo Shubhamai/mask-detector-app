@@ -117,7 +117,7 @@ def add_userdata(username, password):
     """
     try:
         c.execute(
-            'INSERT INTO userstable(username,password) VALUES (?,?,?,?)', (username, password))
+            'INSERT INTO userstable(username,password) VALUES (?,?)', (username, password))
         st.success("You have successfully created a valid Account")
         st.info("Go to Login Menu to login")
         os.mkdir(username)
