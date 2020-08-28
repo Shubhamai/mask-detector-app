@@ -26,7 +26,7 @@ Below are the steps to run the application in your PC or laptop, whatever.
 ##  Prerequisites
 
 The code has only been tested on Python 3.7.7 so it's recommended
-- Python 3.x --- You can download python in [Official Python Site](https://www.python.org/).   
+- Python 3.x - You can download python in [Official Python Site](https://www.python.org/).   
 
 ## Installation
 
