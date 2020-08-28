@@ -1,4 +1,4 @@
-# Mask Detection Application 😷
+# Mask Detection Application 😷 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 The Application allows you to monitor people with no mask and save their images with login/signup functionality
 
@@ -13,7 +13,7 @@ So, here are all the feature in this application -
 - The program will automatically saves & shows the picture of people with not mask.
 - You can see all people with no mask with recpective time & dates.
 
-# Built With
+# Built With [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 - [Streamlit](https://www.streamlit.io/) - The completele fronted is based on React Web Application, and streamlit allows to make React Web Application completely in Python 🎉.  
 - [Sqlite3](https://www.sqlite.org/index.html) - For saving the user data in a database ( username & password )
 - [Tensorflow](https://www.tensorflow.org/) & [OpenCV](https://opencv.org/) - To detct faces % mask in **real-time**
@@ -50,7 +50,7 @@ And there you goo 🎉
 
 With clicking on the Violations, you will see all the pictures of people with no mask with respective date & time
 
-# License
+# License ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
 # Contact
