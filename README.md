@@ -16,7 +16,7 @@ So, here are all the feature in this application -
 # Built With [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 - [Streamlit](https://www.streamlit.io/) - The completele fronted is based on React Web Application, and streamlit allows to make React Web Application completely in Python 🎉.  
 - [Sqlite3](https://www.sqlite.org/index.html) - For saving the user data in a database ( username & password )
-- [Tensorflow](https://www.tensorflow.org/) & [OpenCV](https://opencv.org/) - To detct faces % mask in **real-time**
+- [Tensorflow](https://www.tensorflow.org/) & [OpenCV](https://opencv.org/) - To detct faces & mask in **real-time**
 And bunch of other small libraries including os, time, numpy. 
 
 # Getting Started
