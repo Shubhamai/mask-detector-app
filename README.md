@@ -30,10 +30,16 @@ The code has only been tested on Python 3.7.7 so it's recommended
 
 ## Installation
 
+### Through Github 
+
 1. Clone the repo using `git clone https://github.com/Shubhamai/mask-detector-app.git`
 2. Open the terminal and run `pip install -r requirements.txt`
 3. Run `streamlit run app.py`
 4. Enjoy 🎊
+
+### Docker 🐳
+
+The docker image is avalible in the [docker hub](https://hub.docker.com/r/shubhamai/maskapp). 
 
 # Usage
 
