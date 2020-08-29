@@ -2,6 +2,17 @@
 
 The Application allows you to monitor people with no mask and save their images with login/signup functionality
 
+# Table of Contents
+
+* [About](#about)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#Prerequisites)
+  * [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#license)
+* [Contact](#contact)
+
 # About 
 In this *corona time* there are very few or no applications which allows you to moniter/record the people with mask/no mask and saving the picture with respective date and time for further actions. 
 
