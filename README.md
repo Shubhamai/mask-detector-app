@@ -69,10 +69,3 @@ With clicking on the Violations, you will see all the pictures of people with no
 
 # License ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
-
-# Contact
-
-Shubhamai - [@Shubhamai](https://twitter.com/Shubhamai) - shubham.aiengineer@gmail.com
-
-Project Link: https://github.com/Shubhamai/mask-detector-app
-
